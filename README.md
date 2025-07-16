@@ -13,25 +13,26 @@ Description: Computes the monthly bill for cable TV services based on the select
 
 Concepts: Conditionals, user input validation, simple decision logic.
 
-3. alton_JMA20p3.cpp – Loan Payment Calculator
-Description: Calculates monthly payments and total interest for a car loan based on user input for loan amount, interest rate, and payment duration.
+3. alton_JMA20p3.cpp – Tractor Beam Calculator
+Description: Calculates if a space ship being dragged down to a planet is able to escape based on how much fuel it has and the strength of the beam
 
-Concepts: Looping, modular arithmetic, precision formatting, financial math.
+Concepts: Looping, modular arithmetic, precision formatting.
 
-4. alton_JMA20_p4.cpp – Student Gradebook
-Description: Accepts multiple students' names and numeric grades, calculates the class average, and identifies the highest grade.
+4. alton_JMA20_p4.cpp – Guessing Game
+Description: Lets the user guess a number between 1 and 100 while betting money and earning winnings.
 
-Concepts: File I/O (ifstream), arrays, loops, average computation.
+Concepts: functions, loops, math.
 
-5. alton_JMA20_p5.cpp – Toll Booth Simulation
-Description: Simulates the toll booth system, counting cars passing and total tolls collected. Supports both paying and non-paying vehicles.
+5. alton_JMA20_p5.cpp – Decoder
+Description: decodes a message using either a substitution cypher or a Caeser Cypher. The Program will then decode a file using the given cypher.
 
-Concepts: Classes, member functions, object-oriented basics.
+Concepts: Strings, string manipulation
+   
 
-6. alton_JMA20_p6.cpp – Student Record Class
-Description: Demonstrates a simple class representing a student, with functions to calculate GPA and display student information.
+6. alton_JMA20_p6.cpp – Password System 
+Description: Demonstrates a back end Password system with pin
 
-Concepts: Classes, constructors, encapsulation, arrays, data abstraction.
+Concepts: Functions, arrays, string manipulation.
 
 How to Compile
 Use g++ to compile any of the programs. For example:
