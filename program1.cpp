@@ -1,9 +1,6 @@
 /* ========================================================================== */
 /* PROGRAM Walking Distance Calculator
-   AUTHOR: <type your name here>
-   FSU MAIL NAME: <type your FSU user ID here>
-   RECITATION SECTION NUMBER: <type your section number here>
-   RECITATION INSTRUCTOR NAME: <type your TA's name here>
+   AUTHOR: John Alton>
    COP 3363 - Fall 2022
    PROJECT NUMBER: 1 
    DUE DATE: Thursday 9/8/2022
